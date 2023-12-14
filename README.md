@@ -21,6 +21,42 @@ This project aims to build a machine learning model to detect fake news articles
 
 The dataset used in this project can be found at [Dataset Link](https://www.kaggle.com/c/fake-news/data?select=train.csv). It contains information about news articles, including titles, authors, text, and labels indicating reliability.
 
+# Fake News Detection Project
+
+## Overview
+
+...
+
+## Usage
+
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/Sadia-Noor/fake-news-detection.git
+   cd fake-news-detection
+   
+Run the Jupyter Notebook or Python script to execute the code.
+Data Preprocessing
+Handling missing values.
+Merging 'author' and 'title' columns into a new 'content' column.
+Separating data into features (X) and labels (Y).
+Text preprocessing using stemming, lowercase conversion, and stopword removal.
+Model Training and Evaluation
+Using TfidfVectorizer for feature extraction.
+Splitting the dataset into training and testing sets.
+Training a Logistic Regression model.
+Evaluating the model using accuracy scores, classification report, and confusion matrix.
+Visualization
+Visualizing class distribution using sns.countplot.
+Creating word clouds for real and fake news.
+Predictive System
+Making predictions on new data.
+Results
+Accuracy scores on training and test data.
+Classification report and confusion matrix metrics.
+
+Contributing
+If you'd like to contribute to this project, feel free to submit pull requests or open issues.
+
 ## Requirements
 
 Ensure you have the necessary libraries installed by running:
