@@ -6,16 +6,16 @@ This project aims to build a machine learning model to detect fake news articles
 
 ## Table of Contents
 
-- [Dataset](#dataset)
-- [Requirements](#requirements)
-- [Usage](#usage)
-- [Data Preprocessing](#data-preprocessing)
-- [Model Training and Evaluation](#model-training-and-evaluation)
-- [Visualization](#visualization)
-- [Predictive System](#predictive-system)
-- [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
+- Dataset
+- Requirements
+- Usage
+- Data Preprocessing
+- Model Training and Evaluation
+- Visualization
+- Predictive System
+- Results
+- Contributing
+- License
 
 ## Dataset
 
